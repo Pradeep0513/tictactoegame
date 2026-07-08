@@ -1,0 +1,22 @@
+{
+  "name": "Portal Tic-Tac-Toe",
+  "short_name": "Portal TTT",
+  "description": "Premium startup-grade Tic-Tac-Toe portal with customizable grids, multiple themes, statistics charts, and Minimax AI.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#09090B",
+  "theme_color": "#6366F1",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
